@@ -4,12 +4,13 @@ PyCon-España
 Acerca Pycon
 ------------
 
-PyCon es una conferencia organizada y llevada a cabo por voluntarios de la
-comunidad Python alrededor del mundo, dura varios días donde se darán
-entrenamientos, reuniones, cursos y charlas relacionadas a este lenguaje de
-creciente uso entre los desarrolladores. Tenemos como intención hacer un
-espacio en donde cualquier persona interesada pueda acercarse para preguntar,
-aprender y experimentar con estas herramientas.
+PyCon es un ciclo de conferencias organizada y llevada a cabo por voluntarios de la
+comunidad Python alrededor del mundo. El acontecimiento puede durar varios días en los
+cuales se imparten talleres, reuniones, cursos y charlas relacionadas a este lenguaje de
+gran popularidad entre los desarrolladores y con una afianzada comunidad en todo el mundo.
+
+El evento pretende servir de espacio abierto a cualquier persona interesada en el aprendizaje,
+experimentación y resolución de dudas sobre el lenguaje y sus distintas herramientas.
 
 ¿Qué es Python?
 ---------------
@@ -22,7 +23,7 @@ Permite integrar fácilmente otros lenguajes y herramientas, incluye una amplia
 biblioteca de funciones y es sencillo de aprender. Muchos programadores Python
 reconocen un sustancial aumento en su productividad y sienten que el lenguaje
 mismo los incentiva al desarrollo de código de mayor calidad y más fácil de
-mantener. Está disponible en múltiples plataformas, desde una PC hasta
+mantener. Está disponible en múltiples plataformas, desde una computadora hasta
 teléfonos moviles, y muchos sitios de Internet utilizan
 Python como soporte de sus servicios.
 
@@ -40,25 +41,24 @@ Más información en: http://www.python.org/
 Acerca de PyCon España
 ----------------------
 
-El evento tendra un coste de entrada de 30 euros incluyendo derecho a desayuno
-y comida (con el objetivo de evitar ausencias de última hora), se realizará en
-el mes de Octubre de 2012 en Madrid, y tendra una duración de 2 dias.
-
-El mismo tiene el objetivo de reunir a desarrolladores, entusiastas y empresarios
+El objetivo principal del evento es reunir a desarrolladores, entusiastas y empresarios
 del lenguaje de programación Python para contribuir con su crecimiento y con su
-divulgación.
+divulgación, así como reforzar las relaciones en su comunidad de manera presencial.
 
-El evento contara con dos "tracks", uno con perfil introductorio y otro con un
+El evento tendrá un coste de entrada de 30 euros incluyendo derecho a desayuno
+y comida (con el objetivo de evitar ausencias de última hora), se realizará en
+el mes de Octubre de 2012 en Madrid, y tendrá una duración de 2 dias.
+
+La agenda del acontecimiento constará de dos "tracks", uno con perfil introductorio y otro con un
 perfil más tecnico.
 
-Se prevee una asistencia a aproximada de unas 200 personas de toda españa.
+Se prevee una asistencia a aproximada de unas 200 personas de toda España.
 
-La selección de ponentes del congreso se hara de dos maneras, por un lado se
-hara un "Call For Papers", con el objetivo de captar a ponentes nacionales con
-temas interesantes de los que hablar, por otro lado, se invitará a ponentes de
-persitigio internacional de la comunidad Python.
+La selección de ponentes del congreso se hará de dos maneras, se realizará un "Call For Papers"
+con el objetivo de captar a ponentes nacionales con temas interesantes de los que hablar y por otro lado
+se invitará a ponentes de prestigio internacional de la comunidad Python.
 
-Acerca de python España
+Acerca de Python España
 -----------------------
 
 Python España, es una asociación en proceso de constitución legal, pero que ya
@@ -68,14 +68,14 @@ Barcelona Python Meetup Group".
 Planificacion del programa
 --------------------------
 
-El programa del evento, actualmente no cuenta con ponencias confirmadas, este
-documento se irá actualizando según vayan concretandose las ponencias y
+El programa del evento actualmente no cuenta con ponencias confirmadas, este
+documento se irá actualizando según vayan concretándose las ponencias y
 ponentes.
 
 Las ponencias tendrán una duración de 45 minutos, aunque para determinadas
-ponencias, si se considera oportuno, podría juntarse dos bloques de 45 minutos.
+ponencias, si se considera oportuno, podrían juntarse dos bloques de 45 minutos.
 
-Dia 1
+Día 1
 ~~~~~
 
 +--------+--------------------------------+--------------------------------+
@@ -106,7 +106,7 @@ Dia 1
 | 17:45  | Cierre de la jornada                                            |
 +--------+-----------------------------------------------------------------+
 
-Dia 2
+Día 2
 ~~~~~
 
 +--------+--------------------------------+--------------------------------+
