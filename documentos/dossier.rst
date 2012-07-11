@@ -4,13 +4,16 @@ PyCon-España
 Acerca Pycon
 ------------
 
-PyCon es un ciclo de conferencias organizada y llevada a cabo por voluntarios de la
+PyCon es un ciclo de conferencias organizado y llevado a cabo por voluntarios de la
 comunidad Python alrededor del mundo. El acontecimiento puede durar varios días en los
 cuales se imparten talleres, reuniones, cursos y charlas relacionadas a este lenguaje de
 gran popularidad entre los desarrolladores y con una afianzada comunidad en todo el mundo.
 
 El evento pretende servir de espacio abierto a cualquier persona interesada en el aprendizaje,
 experimentación y resolución de dudas sobre el lenguaje y sus distintas herramientas.
+
+El clima que rodea Pycon y las charlas es el de compartir la innovación de este lenguaje de
+programación en muy diversos ámbitos.
 
 ¿Qué es Python?
 ---------------
@@ -23,14 +26,17 @@ Permite integrar fácilmente otros lenguajes y herramientas, incluye una amplia
 biblioteca de funciones y es sencillo de aprender. Muchos programadores Python
 reconocen un sustancial aumento en su productividad y sienten que el lenguaje
 mismo los incentiva al desarrollo de código de mayor calidad y más fácil de
-mantener. Está disponible en múltiples plataformas, desde una computadora hasta
-teléfonos moviles, y muchos sitios de Internet utilizan
-Python como soporte de sus servicios.
+mantener. Está disponible en múltiples plataformas, desde un ordenador hasta
+teléfonos moviles, y muchos sitios de Internet de referencia utilizan
+Python como soporte o corazon de sus servicios.
 
 Reconocido en el ambiente del Software Libre, visto como una creciente
 alternativa a Java y .NET, es usado actualmente por miles de empresas,
 incluyendo a Google, Industrial Light & Magic, iRobot, NASA, Walt Disney
 Animation Studios y YouTube.
+
+Los recientes éxitos en Internet como Pinterest o Instagram están desarrollados
+en su mayor parte empleando Python.
 
 En la actualidad Python se desarrolla como un proyecto de código abierto,
 administrado por la Python Software Foundation. La última versión estable del
@@ -41,8 +47,8 @@ Más información en: http://www.python.org/
 Acerca de PyCon España
 ----------------------
 
-El objetivo principal del evento es reunir a desarrolladores, entusiastas y empresarios
-del lenguaje de programación Python para contribuir con su crecimiento y con su
+El objetivo principal del evento es reunir a desarrolladores, entusiastas y promotores
+del lenguaje de programación Python para contribuir a su crecimiento y a su
 divulgación, así como reforzar las relaciones en su comunidad de manera presencial.
 
 El evento tendrá un coste de entrada de 30 euros incluyendo derecho a desayuno
@@ -73,7 +79,7 @@ documento se irá actualizando según vayan concretándose las ponencias y
 ponentes.
 
 Las ponencias tendrán una duración de 45 minutos, aunque para determinadas
-ponencias, si se considera oportuno, podrían juntarse dos bloques de 45 minutos.
+ponencias, si se considera oportuno, podrían unirse dos bloques de 45 minutos.
 
 Día 1
 ~~~~~
@@ -136,3 +142,39 @@ Día 2
 +--------+--------------------------------+--------------------------------+
 | 17:45  | Cierre de la jornada                                            |
 +--------+-----------------------------------------------------------------+
+
+Necesidades a cubrir por el anfitrión
+-------------------------------------
+
+* Disponibilidad del espacio en fin de semana o, en su defecto, jueves y viernes entre los días 19 y 22 de octubre (provisional).
+
+* 3 espacios comunes: 2 salas de conferencias equipadas con red y proyectos con capacidad entre 80 y 100 personas y un espacio para coffebreak, almuerzo, etc.
+
+* WIFI gratuito en el espacio que emplearán los asistentes para disfrutar del congreso.
+
+* Posibilidad de contratar directamente un servicio de catering o facilitar la contratación de uno a la organización de la Pycon España.
+
+* [Idealmente] Una inauguración institucional de la Pycon España en donde el anfitrión resalte la importancia de la innovación, la experimentación y el papel de Python en ellos.
+
+Interés para el Centro de Innovación de BBVA
+---------------------------------------------
+
+Python y los productos y plataformas derivados son un ejemplo de la innovación
+constante en un entorno de cooperación internacional pública y privada.
+
+Los desarrolladores de Python carecen de prejuicios tecnológicos y cuestionan la
+irremediabilidad de otros lenguajes y plataformas más "estándar" y proponen
+nuevas formas más prácticas y sostenibles de desarrollar sus nuevas ideas.
+
+Hoy en día, Python es un lenguaje enormemente apreciado por las startups tecnológicas
+y es una de las apuestas más firmes de la industria de Internet frente a las soluciones
+tradicionales.
+
+Los desarrolladores Python disfrutan de una comunidad vibrante, dinámica y exigente que
+hace que sus congresos y reuniones transmitan frescura y pragmatismo además de conculcar
+en general con un sano espíritu colaborativo entre individuos y empresas desarrolladoras.
+
+BBVA y su Centro de Innovación podrían ver este congreso como una forma más de transmitir
+su compromiso con las nuevas generaciones de desarrolladores, su talento y la innovación
+en las formas de resolver problemas antiguos y nuevos y en los productos que de ello
+se derivan.
