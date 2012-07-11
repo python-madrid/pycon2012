@@ -146,21 +146,15 @@ Día 2
 Necesidades a cubrir por el anfitrión
 -------------------------------------
 
-* Disponibilidad del espacio en fin de semana o, en su defecto, jueves y viernes
-entre los días 19 y 22 de octubre (provisional).
+* Disponibilidad del espacio en fin de semana o, en su defecto, jueves y viernes entre los días 19 y 22 de octubre (provisional).
 
-* 3 espacios comunes: 2 salas de conferencias equipadas con red y proyectos
-con capacidad entre 80 y 100 personas y un espacio para coffebreak, almuerzo, etc.
+* 3 espacios comunes: 2 salas de conferencias equipadas con red y proyectos con capacidad entre 80 y 100 personas y un espacio para coffebreak, almuerzo, etc.
 
-* WIFI gratuito en el espacio que emplearán los asistentes para disfrutar del
-congreso.
+* WIFI gratuito en el espacio que emplearán los asistentes para disfrutar del congreso.
 
-* Posibilidad de contratar directamente un servicio de catering o facilitar
-la contratación de uno a la organización de la Pycon España.
+* Posibilidad de contratar directamente un servicio de catering o facilitar la contratación de uno a la organización de la Pycon España.
 
-* [Idealmente] Una inauguración institucional de la Pycon España en donde el
-anfitrión resalte la importancia de la innovación, la experimentación y el
-papel de Python en ellos.
+* [Idealmente] Una inauguración institucional de la Pycon España en donde el anfitrión resalte la importancia de la innovación, la experimentación y el papel de Python en ellos.
 
 Interés para el Centro de Innovación de BBVA
 ---------------------------------------------
